@@ -1,0 +1,1796 @@
+self.__BUILD_MANIFEST = {
+  "/": [
+    "static/chunks/30ad9013d3655d5a.js"
+  ],
+  "/500": [
+    "static/chunks/2bf300395a40365d.js"
+  ],
+  "/_error": [
+    "static/chunks/ab10c960a31ffac6.js"
+  ],
+  "/articles/[permalink]": [
+    "static/chunks/49a1b0611a2bf6b3.js"
+  ],
+  "/biz/[merchant]": [
+    "static/chunks/ae85bf201836fb20.js"
+  ],
+  "/biz/[merchant]/[location]": [
+    "static/chunks/966b517f4565743b.js"
+  ],
+  "/browser-data": [
+    "static/chunks/1648f6d5629432e7.js"
+  ],
+  "/cart": [
+    "static/chunks/b49dd8ce3314575e.js"
+  ],
+  "/cart/CartListContainer": [
+    "static/chunks/2f2d2cb01cbef9de.js"
+  ],
+  "/checkout/app-payment-completion": [
+    "static/chunks/6c369327a5d398c3.js"
+  ],
+  "/checkout/cart": [
+    "static/chunks/6530d167188e3123.js"
+  ],
+  "/coupons/all-brands/[countryCode]": [
+    "static/chunks/38561710a088b8c4.js"
+  ],
+  "/coupons/all-brands/[countryCode]/ssg-suffix/[ssgVarParams]": [
+    "static/chunks/f2fc4ea915a289a9.js"
+  ],
+  "/deals/404": [
+    "static/chunks/afe967ac1af310c1.js"
+  ],
+  "/deals/[dealId]": [
+    "static/chunks/ebdd937b51898e53.js"
+  ],
+  "/deals/[dealId]/ssg-suffix/[ssgVarParams]": [
+    "static/chunks/0ebe953017dc318f.js"
+  ],
+  "/deals/booking/[dealId]": [
+    "static/chunks/4b3c78a490889dfe.js"
+  ],
+  "/deals/booking/external": [
+    "static/chunks/caf04d0a1c93e413.js"
+  ],
+  "/faq": [
+    "static/chunks/732ebc289224f8c4.js"
+  ],
+  "/faq/[category]": [
+    "static/chunks/9f51cd6919a2dd39.js"
+  ],
+  "/faq/[category]/[article]": [
+    "static/chunks/b364df48c8c619cc.js"
+  ],
+  "/faq/your-vouchers": [
+    "static/chunks/665ef7d3ba3bfa42.js"
+  ],
+  "/filters/[filter]": [
+    "static/chunks/5ab5911667f54223.js"
+  ],
+  "/gift": [
+    "static/chunks/e01397d1feb6216f.js"
+  ],
+  "/gift-cards": [
+    "static/chunks/946565319a22a228.js"
+  ],
+  "/gift/[occasion]/[[...subcategory]]": [
+    "static/chunks/d985ce67528ee864.js"
+  ],
+  "/gift/last-minute-gifts": [
+    "static/chunks/0bf10839b9202213.js"
+  ],
+  "/gift/ungiftables": [
+    "static/chunks/ce07c9c6db7652f2.js"
+  ],
+  "/gift/ungiftables/[subcategory]": [
+    "static/chunks/41a381bbf7c916d0.js"
+  ],
+  "/giftcards": [
+    "static/chunks/32f816d4af58f06e.js"
+  ],
+  "/giftcards/[promoCode]": [
+    "static/chunks/1d6e833b2e6509b3.js"
+  ],
+  "/gifts/[giftToken]": [
+    "static/chunks/d5a0ba805123b30a.js"
+  ],
+  "/goods/[[...category]]": [
+    "static/chunks/8addd2810fd9ebbc.js"
+  ],
+  "/hotels/[citySlug]/[dealId]": [
+    "static/chunks/f6bcc6b4d153cb70.js"
+  ],
+  "/intermediate-redirect": [
+    "static/chunks/9c826b86bc6d2c7f.js"
+  ],
+  "/landing/[permalink]": [
+    "static/chunks/12877ddaa4fae5cd.js"
+  ],
+  "/legal/[permalink]": [
+    "static/chunks/a39408c5ffd4ae49.js"
+  ],
+  "/legal/do-not-sell-my-personal-information": [
+    "static/chunks/cc5e2d45ea4f269c.js"
+  ],
+  "/local/[[...divisionOrCategory]]": [
+    "static/chunks/bbacf6c134a4cfad.js"
+  ],
+  "/logged-out": [
+    "static/chunks/fd461220798c2947.js"
+  ],
+  "/login": [
+    "static/chunks/3a6d07010f43502d.js"
+  ],
+  "/mobile": [
+    "static/chunks/8647876e4619d1e9.js"
+  ],
+  "/myaccount/[[...slug]]": [
+    "static/chunks/c11b705f5e4b9593.js"
+  ],
+  "/myaccount/membership": [
+    "static/chunks/3a34c52f3f3f540c.js"
+  ],
+  "/mybucks": [
+    "static/chunks/54f086b685d149bb.js"
+  ],
+  "/mygroupons": [
+    "static/chunks/1656de3d3c270e33.js"
+  ],
+  "/mygroupons/users/[userId]/details/[unitId]": [
+    "static/chunks/f63243e0b1d20df8.js"
+  ],
+  "/mygroupons/users/[userId]/edit/[unitId]": [
+    "static/chunks/35b48ee8d7204699.js"
+  ],
+  "/mygroupons/users/[userId]/edit/cancel": [
+    "static/chunks/a76b76e27ae32c4b.js"
+  ],
+  "/mygroupons/users/[userId]/edit/edit": [
+    "static/chunks/81fff3cc16945ad9.js"
+  ],
+  "/myprofile/[[...slug]]": [
+    "static/chunks/ff870945709db44a.js"
+  ],
+  "/occasion/[occasion]": [
+    "static/chunks/f2ce88e6bf9c274c.js"
+  ],
+  "/occasion/recently-viewed-deals": [
+    "static/chunks/001c5c52c82cf81f.js"
+  ],
+  "/perftest": [
+    "static/chunks/79129327dc91292e.js"
+  ],
+  "/post_redemption_survey": [
+    "static/chunks/b9d6244d734813a5.js"
+  ],
+  "/receipt/[orderId]": [
+    "static/chunks/39b2b8b8cbd7406f.js"
+  ],
+  "/redirect-to/voucher": [
+    "static/chunks/a83a28a92e5b9d1d.js"
+  ],
+  "/req-dump": [
+    "static/chunks/cd523d2862c425c2.js"
+  ],
+  "/search": [
+    "static/chunks/57631aac5ec66f83.js"
+  ],
+  "/signup": [
+    "static/chunks/966d05b201fb0ce2.js"
+  ],
+  "/sitemap/[[...slug]]": [
+    "static/chunks/59d1cfb4b899220d.js"
+  ],
+  "/ssg-test/[ssgTestParam]": [
+    "static/chunks/52b90fa9ec3a5232.js"
+  ],
+  "/ssg-test/[ssgTestParam]/ssg-suffix/[ssgVarParams]": [
+    "static/chunks/7eb896f2495eb2be.js"
+  ],
+  "/trademarks": [
+    "static/chunks/8941dca81e37d6ca.js"
+  ],
+  "/travel/[[...category]]": [
+    "static/chunks/188b064fbf31164c.js"
+  ],
+  "/users/[userId]/vouchers/[voucherId]": [
+    "static/chunks/c3ea4d21f5a16112.js"
+  ],
+  "/users/[userId]/vouchers/print": [
+    "static/chunks/4e0775f9568fa5f3.js"
+  ],
+  "/users/password_reset/[nonce]": [
+    "static/chunks/f45a8dbfe77ba172.js"
+  ],
+  "/wh-preview": [
+    "static/chunks/6282bb17917b8a26.js"
+  ],
+  "/wishlist": [
+    "static/chunks/2c42d60404e6f5da.js"
+  ],
+  "__rewrites": {
+    "afterFiles": [
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "de_DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenk/ungeschenkbar/:path*",
+        "destination": "/:nextInternalLocale/gift/ungiftables/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.de"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenk/ungeschenkbar/:path*",
+        "destination": "/:nextInternalLocale/gift/ungiftables/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenk/ungeschenkbar/:path*",
+        "destination": "/:nextInternalLocale/gift/ungiftables/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ca"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.fr"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/vos-coupons/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/jouw-vouchers/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/jouw-vouchers/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/jouw-vouchers/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/jouw-vouchers/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.nl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/jouw-vouchers/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/jouw-vouchers/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "de_DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/deine-gutscheine/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.de"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/deine-gutscheine/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/deine-gutscheine/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "es_ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/tus-cupones/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.es"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/tus-cupones/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/tus-cupones/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "it_IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/i-tuoi-voucher/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.it"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/i-tuoi-voucher/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/i-tuoi-voucher/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "pl_PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/twoje-kupony/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.pl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/twoje-kupony/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/faq/twoje-kupony/:path*",
+        "destination": "/:nextInternalLocale/faq/your-vouchers/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ca"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.fr"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cartes-cadeaux/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeaubonnen/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeaubonnen/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeaubonnen/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeaubonnen/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.nl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeaubonnen/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeaubonnen/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "de_DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenkkarten/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.de"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenkkarten/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenkkarten/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "es_ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/tarjetas-de-regalo/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.es"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/tarjetas-de-regalo/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/tarjetas-de-regalo/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "it_IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/buoni-regalo/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.it"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/buoni-regalo/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/buoni-regalo/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "pl_PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/karty-prezentowe/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.pl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/karty-prezentowe/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/karty-prezentowe/:path*",
+        "destination": "/:nextInternalLocale/gift-cards/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ca"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/nl/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/nl/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/nl/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "en_CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/en/gift/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ca"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/en/gift/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/en/gift/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "de_DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenk/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.de"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenk/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/geschenk/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "es_ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/regalo/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.es"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/regalo/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/regalo/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "it_IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/regalo/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.it"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/regalo/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/regalo/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.fr"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.nl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cadeau/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "pl_PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/prezent/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.pl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/prezent/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/prezent/:path*",
+        "destination": "/:nextInternalLocale/gift/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "en_AE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ae"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "AE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "en_AU"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.com\\.au"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "AU"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/bon-plan/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/bon-plan/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/bon-plan/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/nl/kortingsbonnen/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.be"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/nl/kortingsbonnen/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "BE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/nl/kortingsbonnen/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "en_CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/en/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ca"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/en/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/en/coupons/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/offre/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ca"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/offre/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "CA"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/fr/offre/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "de_DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/gutscheine/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.de"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/gutscheine/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "DE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/gutscheine/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "es_ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/ofertas/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.es"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/ofertas/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "ES"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/ofertas/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "fr_FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/bon-plan/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.fr"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/bon-plan/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "FR"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/bon-plan/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "en_GB"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/vouchers/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.co\\.uk"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/vouchers/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "GB"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/vouchers/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "en_IE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/vouchers/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.ie"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/vouchers/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "IE"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/vouchers/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "it_IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/offerte/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.it"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/offerte/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "IT"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/offerte/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "nl_NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/kortingsbonnen/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.nl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/kortingsbonnen/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "NL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/kortingsbonnen/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "cookie",
+            "key": "user_locale",
+            "value": "pl_PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/oferta/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "host",
+            "value": "([a-zA-Z0-9-]+\\.)?groupon\\.pl"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/oferta/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "x-country",
+            "value": "PL"
+          }
+        ],
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/oferta/:path*",
+        "destination": "/:nextInternalLocale/local/:path*"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/:csrf/users/:userId/orders/:orderId/complete/:billingType",
+        "destination": "/:nextInternalLocale/api/:csrf/users/:userId/orders/:orderId/complete/:billingType"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/users/activate/:nonce",
+        "destination": "/:nextInternalLocale/api/users/activate/:nonce"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/users/:consumerId/email_verification/perform",
+        "destination": "/:nextInternalLocale/api/users/:consumerId/email-verification/perform"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/mobilenextapi/:path*",
+        "destination": "/:nextInternalLocale/api/:path*"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/grpn/:path*",
+        "destination": "/:nextInternalLocale/api/grpn/:path*"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/cart/error/:message",
+        "destination": "/:nextInternalLocale/cart"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/deals/:dealId/confirmation",
+        "destination": "/:nextInternalLocale/checkout/cart"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/deals/:dealId/confirmation/:unitId",
+        "destination": "/:nextInternalLocale/mygroupons/users/default/edit/unknown?dealId=:unitId"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/deals/:dealId/confirmation/:order_id/payment",
+        "destination": "/:nextInternalLocale/checkout/cart"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/deals/groupon-gift-cards",
+        "destination": "/:nextInternalLocale/deals/giftcard-na"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/checkout/cart/:path*",
+        "destination": "/:nextInternalLocale/checkout/cart"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/checkout/bundle",
+        "destination": "/:nextInternalLocale/checkout/cart"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/checkout/bundle/:path",
+        "destination": "/:nextInternalLocale/checkout/cart"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/mystuff",
+        "destination": "/:nextInternalLocale/mygroupons"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/mystuff/users/:userId/details/:unitId",
+        "destination": "/:nextInternalLocale/mygroupons/users/:userId/details/:unitId"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/myemailaddress",
+        "destination": "/:nextInternalLocale/myaccount/mypersonaldata"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/mylocation",
+        "destination": "/:nextInternalLocale/myaccount/mylocation"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/myaddress",
+        "destination": "/:nextInternalLocale/myaccount/myaddress"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/mypersonaldata",
+        "destination": "/:nextInternalLocale/myaccount/mypersonaldata"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/mypassword",
+        "destination": "/:nextInternalLocale/myaccount/mypassword"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/mybillingrecords",
+        "destination": "/:nextInternalLocale/myaccount/mybillingrecords"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/users/:userId/account",
+        "destination": "/:nextInternalLocale/myaccount/mypersonaldata"
+      },
+      {
+        "source": "/:nextInternalLocale(en\\-US|en\\-AE|en\\-AU|en\\-GB|en\\-IE|en\\-CA|fr\\-BE|fr\\-CA|fr\\-FR|de\\-DE|es\\-ES|it\\-IT|nl\\-BE|nl\\-NL|pl\\-PL)/coupons/all-brands",
+        "destination": "/:nextInternalLocale/coupons/all-brands/us"
+      }
+    ],
+    "beforeFiles": [
+      {
+        "source": "/next-pwa-app/assets/_next/:path+",
+        "destination": "/_next/:path+"
+      }
+    ],
+    "fallback": []
+  },
+  "sortedPages": [
+    "/",
+    "/500",
+    "/_app",
+    "/_error",
+    "/api/auth/nextauth.test",
+    "/api/auth/[...nextauth]",
+    "/api/canRenderMyGroupon",
+    "/api/cart/addToCart",
+    "/api/graphql",
+    "/api/grpn/config",
+    "/api/grpn/healthcheck",
+    "/api/grpn/helloworld",
+    "/api/grpn/versions",
+    "/api/logs",
+    "/api/logs/csp",
+    "/api/logs/index.integration.test",
+    "/api/maps/static",
+    "/api/proxy/checkout/legacy",
+    "/api/proxy/deal/legacy",
+    "/api/proxy/janus/translate",
+    "/api/proxy/janus/translate.test",
+    "/api/proxy/mygroupons/legacy",
+    "/api/proxy/occasion/legacy",
+    "/api/proxy/partytown/assets",
+    "/api/proxy/partytown/assets.test",
+    "/api/proxy/partytown/worker/[[...workerPath]]",
+    "/api/proxy/voucher/print/legacy",
+    "/api/proxy/wolfhound/legacy",
+    "/api/users/activate/[nonce].test",
+    "/api/users/activate/[nonce]",
+    "/api/users/[consumerId]/email-verification/perform",
+    "/api/users/[consumerId]/email-verification/perform.test",
+    "/api/v2/logs",
+    "/api/v2/logs/index.integration.test",
+    "/api/v2/metric",
+    "/api/[csrf]/users/[userId]/orders/[orderId]/complete/[billingType]",
+    "/articles/[permalink]",
+    "/biz/[merchant]",
+    "/biz/[merchant]/[location]",
+    "/browser-data",
+    "/cart",
+    "/cart/CartListContainer",
+    "/checkout/app-payment-completion",
+    "/checkout/cart",
+    "/coupons/all-brands/[countryCode]",
+    "/coupons/all-brands/[countryCode]/ssg-suffix/[ssgVarParams]",
+    "/deals/404",
+    "/deals/booking/external",
+    "/deals/booking/[dealId]",
+    "/deals/[dealId]",
+    "/deals/[dealId]/ssg-suffix/[ssgVarParams]",
+    "/faq",
+    "/faq/your-vouchers",
+    "/faq/[category]",
+    "/faq/[category]/[article]",
+    "/filters/[filter]",
+    "/gift",
+    "/gift/last-minute-gifts",
+    "/gift/ungiftables",
+    "/gift/ungiftables/[subcategory]",
+    "/gift/[occasion]/[[...subcategory]]",
+    "/gift-cards",
+    "/giftcards",
+    "/giftcards/[promoCode]",
+    "/gifts/[giftToken]",
+    "/goods/[[...category]]",
+    "/hotels/[citySlug]/[dealId]",
+    "/intermediate-redirect",
+    "/landing/[permalink]",
+    "/legal/do-not-sell-my-personal-information",
+    "/legal/[permalink]",
+    "/local/[[...divisionOrCategory]]",
+    "/logged-out",
+    "/login",
+    "/mobile",
+    "/myaccount/membership",
+    "/myaccount/[[...slug]]",
+    "/mybucks",
+    "/mygroupons",
+    "/mygroupons/users/[userId]/details/[unitId]",
+    "/mygroupons/users/[userId]/edit/cancel",
+    "/mygroupons/users/[userId]/edit/edit",
+    "/mygroupons/users/[userId]/edit/[unitId]",
+    "/myprofile/[[...slug]]",
+    "/occasion/recently-viewed-deals",
+    "/occasion/[occasion]",
+    "/perftest",
+    "/post_redemption_survey",
+    "/receipt/[orderId]",
+    "/redirect-to/voucher",
+    "/req-dump",
+    "/search",
+    "/signup",
+    "/sitemap/[[...slug]]",
+    "/ssg-test/[ssgTestParam]",
+    "/ssg-test/[ssgTestParam]/ssg-suffix/[ssgVarParams]",
+    "/trademarks",
+    "/travel/[[...category]]",
+    "/users/password_reset/[nonce]",
+    "/users/[userId]/vouchers/print",
+    "/users/[userId]/vouchers/[voucherId]",
+    "/wh-preview",
+    "/wishlist"
+  ]
+};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
